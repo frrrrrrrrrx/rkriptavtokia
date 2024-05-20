@@ -1,0 +1,18 @@
+body{
+    background-color: white;
+}
+div{
+    background-color: #cccdd6;
+    height: 50px;
+    width: 1450px;
+}
+p{
+    color:black;
+    
+}
+p img{
+    width: 400px;
+    float:left;
+    shape-outside:url(рио.jpg);
+    shape-margin:20px;
+}
